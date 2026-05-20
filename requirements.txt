@@ -1,0 +1,8 @@
+langchain
+langchain-anthropic
+langchain-community
+chromadb
+boto3
+requests
+python-dotenv
+tiktoken
